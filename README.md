@@ -1,7 +1,7 @@
 >[!NOTE]
 Tarea N1 Ayudantia
 
-##Contenido visto en clase 1
+## Contenido visto en clase 1
 
 1. Introducción al Stack.
 2. Contenido en el Notion.
